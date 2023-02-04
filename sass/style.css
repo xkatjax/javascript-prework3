@@ -1,0 +1,11 @@
+#toTopButton {
+  background-color: teal;
+  width: 150px;
+  height: 30px;
+  padding: 10px;
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  cursor: pointer;
+  display: none;
+}/*# sourceMappingURL=style.css.map */
